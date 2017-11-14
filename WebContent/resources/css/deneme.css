@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-color:blue;
+}
+.container {
+	background-color:gray;
+	border:5px solid black;
+	border-radius:35px;
+	margin-top:25px;
+	height:380px;
+}
+.title {
+	color:white;
+	font-size:20px;
+	font-family:Courier;
+	text-align:center;
+}
+.inputLabel {
+	color:white;
+}
+legend{
+	text-align:center;
+}
